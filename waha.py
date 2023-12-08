@@ -1,0 +1,2 @@
+a = "wdnmmd"
+print(a)
